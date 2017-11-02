@@ -16,4 +16,4 @@ Android studio 解析assets下面的XML文件
      </lan>  
 </Language>  
 # 运行效果
-![](20171102132046.jpg)
+  ![](20171102132046.jpg)
