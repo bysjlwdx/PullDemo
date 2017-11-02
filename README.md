@@ -1,8 +1,7 @@
 # PullDemo
 Android studio 解析assets下面的XML文件
 # language.xml
-
-<---!
+<pre><code>
 <Language cat="it">  
     <lan id="1">  
         <name>Java</name>  
@@ -18,7 +17,7 @@ Android studio 解析assets下面的XML文件
      </lan>  
 </Language>  
 
---->
+</code></pre>
 
 # 运行效果
 
