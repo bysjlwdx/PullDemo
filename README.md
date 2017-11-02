@@ -1,6 +1,8 @@
 # PullDemo
 Android studio 解析assets下面的XML文件
 # language.xml
+
+<---!
 <Language cat="it">  
     <lan id="1">  
         <name>Java</name>  
@@ -15,6 +17,9 @@ Android studio 解析assets下面的XML文件
          <ide>Visual Studio</ide>  
      </lan>  
 </Language>  
+
+--->
+
 # 运行效果
 
-  ! [](20171102132046.jpg)
+  ![](20171102132046.jpg)
